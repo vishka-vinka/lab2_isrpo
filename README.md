@@ -4,11 +4,12 @@
 В проекте содержатся набор программ на Python для вычисления площадей и периметров фигур.
 
 ### Список файлов 
-_README.md
-circle.py
-rectangle.py
-square.py
-triangle.py_
+_
+- README.md
+- circle.py
+- rectangle.py
+- square.py
+- triangle.py_
 
 ### Клонирование репозитория
 ``` bash
